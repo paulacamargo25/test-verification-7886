@@ -3,7 +3,7 @@
 {
 	"name": "Paula",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "paulacamargo25/busybox"
+	"image": "paulacamargo25/busybox:latest"
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
